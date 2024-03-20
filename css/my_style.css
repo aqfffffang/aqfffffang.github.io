@@ -4,15 +4,22 @@
 }
 
 p.redred{
-    color:#7fff00;
+    color:darkolivegreen;
     font-size: 40px;
     text-align: center;
     text-indent: 2em;
 }
 
 .blueblue{
-    color: cadetblue;
+    color:darkseagreen;
 }
 body{
     font-family: 'NOTO SERIF TC';
+}
+.expedu_icon{
+    color: cadetblue;
+}
+.expedu_icon:hover{
+    background-color: cadetblue;
+    color: white;
 }
