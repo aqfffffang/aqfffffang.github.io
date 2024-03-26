@@ -11,7 +11,7 @@ p.redred{
     background-color: cornflowerblue;
     border: 5px solid;
     border-color: darkturquoise;
-    background-image: url(../assets/img/eso.jpg);
+    background-image: url(../assets/img/pk.jpg);
 }
 
 .blueblue{
@@ -29,7 +29,7 @@ body{
 }
 .bg-primary{
     background-color: darkolivegreen !important;
-    background-image: url(../assets/img/pk.jpg);
+    background-image: url(../assets/img/eso.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
