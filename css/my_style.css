@@ -27,3 +27,9 @@ body{
     background-color: cadetblue;
     color: white;
 }
+.bg-primary{
+    background-color: darkolivegreen !important;
+    background-image: url(../assets/img/eso.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
