@@ -11,6 +11,7 @@ p.redred{
     background-color: cornflowerblue;
     border: 5px solid;
     border-color: darkturquoise;
+    background-image: url(../assets/img/eso.jpg);
 }
 
 .blueblue{
