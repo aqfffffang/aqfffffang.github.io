@@ -8,6 +8,9 @@ p.redred{
     font-size: 40px;
     text-align: center;
     text-indent: 2em;
+    background-color: cornflowerblue;
+    border: 5px solid;
+    border-color: darkturquoise;
 }
 
 .blueblue{
