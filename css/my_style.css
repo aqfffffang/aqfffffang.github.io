@@ -3,16 +3,21 @@
     line-height: 1.5em;
 }
 
-p.redred{
+div#redred{
+    padding-top: 30px;
+    padding-bottom: 50px;
     color:darkolivegreen;
     font-size: 40px;
     text-align: center;
     text-indent: 2em;
     background-color: cornflowerblue;
     border: 5px solid;
+    border-radius: 20px;
     border-color: darkturquoise;
     background-image: url(../assets/img/pk.jpg);
+    margin: 30px 30px 30px 0px;
 }
+
 
 .blueblue{
     color:darkseagreen;
@@ -35,4 +40,8 @@ body{
 }
 .table-80{
     width: 80%;
+}
+.aqua1234{
+    width: 50%;
+    margin: 30px 30px 30px 0px;
 }
