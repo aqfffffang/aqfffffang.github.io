@@ -52,4 +52,14 @@ body{
  background-color: blueviolet;
  color: aqua;
 }
-
+.fang1234{
+    background-color: deepskyblue;
+    color: darkblue;
+    border-color: cornflowerblue;
+    border-radius: 20px;
+    border: solid;
+    border-radius: 15px;
+    margin: 30px auto;
+    height: 300px;
+    overflow: scroll;
+}
